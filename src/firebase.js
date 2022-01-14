@@ -2,13 +2,14 @@
 import firebase from "firebase";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyDmB_PJFQRDGtdT9oV4ecXVHbqnanp9UbQ",
-  authDomain: "whatsapp-clone-4f188.firebaseapp.com",
-  projectId: "whatsapp-clone-4f188",
-  storageBucket: "whatsapp-clone-4f188.appspot.com",
-  messagingSenderId: "618269431538",
-  appId: "1:618269431538:web:1dc84f6df32cf15a07e26b",
-  measurementId: "G-LWTVD6M9W0"
+  apiKey: "AIzaSyClf7-ZmrHu5ScUU2PPU7JIHKn3n_Tol2o",
+  authDomain: "whatsapp-clone-5c5ee.firebaseapp.com",
+  databaseURL: "https://whatsapp-clone-5c5ee-default-rtdb.firebaseio.com",
+  projectId: "whatsapp-clone-5c5ee",
+  storageBucket: "whatsapp-clone-5c5ee.appspot.com",
+  messagingSenderId: "411707643464",
+  appId: "1:411707643464:web:53befec98c6170b51eaa7d",
+  measurementId: "G-HCCSGZPNJE",
 };
 
 // ----------------------------------------------------------
